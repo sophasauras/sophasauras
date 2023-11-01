@@ -1,4 +1,4 @@
-# sophsasauras
+# Hi! I'm Sophie.
 <p align="center">
   <img src="https://github.com/sophasauras/sophsasauras/assets/145561928/75e59070-ea32-488a-90a9-af894f1afa49" />
 </p>
